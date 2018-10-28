@@ -1,0 +1,4 @@
+﻿  Affine cipher.cpp
+c:\users\влад\source\repos\affine cipher\affine cipher\affine cipher.cpp(76): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\влад\source\repos\affine cipher\affine cipher\affine cipher.cpp(120): warning C4018: <: несоответствие типов со знаком и без знака
+  Affine cipher.vcxproj -> C:\Users\Влад\source\repos\Affine cipher\Debug\Affine cipher.exe
