@@ -1,4 +1,6 @@
 ﻿  Affine cipher.cpp
-c:\users\влад\source\repos\affine cipher\affine cipher\affine cipher.cpp(75): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\влад\source\repos\affine cipher\affine cipher\affine cipher.cpp(130): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\влад\source\repos\affine cipher\affine cipher\affine cipher.cpp(115): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\влад\source\repos\affine cipher\affine cipher\affine cipher.cpp(168): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\влад\source\repos\affine cipher\affine cipher\affine cipher.cpp(219): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\влад\source\repos\affine cipher\affine cipher\affine cipher.cpp(281): warning C4018: <: несоответствие типов со знаком и без знака
   Affine cipher.vcxproj -> C:\Users\Влад\source\repos\Affine cipher\Debug\Affine cipher.exe

@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  Affine cipher.cpp
+c:\users\влад\source\repos\affine cipher\affine cipher\affine cipher.cpp(131): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\влад\source\repos\affine cipher\affine cipher\affine cipher.cpp(185): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\влад\source\repos\affine cipher\affine cipher\affine cipher.cpp(239): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\влад\source\repos\affine cipher\affine cipher\affine cipher.cpp(314): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  All 191 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Affine cipher.vcxproj -> C:\Users\Влад\source\repos\Affine cipher\Release\Affine cipher.exe
